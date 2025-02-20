@@ -31,5 +31,7 @@
 
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/avijit-bhadro-200aaa240 ))  
-[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:abhadro621@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijit-bhadro-200aaa240)  
+[![Email](https://img.shields.io/badge/Email-Contact-orange?logo=gmail&logoColor=white)](mailto:abhadro621@gmail.com)  
+
