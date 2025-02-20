@@ -23,9 +23,10 @@
 
 ### 📌 Featured Projects  
 
-🔍 [8086 Assembly Book Inventory System]([https://github.com/your-repo](https://github.com/AvijitBhadro/8086-Assembly-Online-Book-Shop))  
+🔍 [8086 Assembly Book Inventory System](https://github.com/AvijitBhadro/8086-Assembly-Online-Book-Shop)  
 💰 [Loan Management System](https://github.com/)  
-🏥 [Hospital Management System – Java Swing & SQL]([[https://github.com/your-repo](https://github.com/AvijitBhadro/Hospital-Management-System-Java-Swing-SQL)](https://github.com/AvijitBhadro/Hospital-Management-System-Java-Swing-SQL/tree/main))  
+🏥 [Hospital Management System – Java Swing & SQL](https://github.com/AvijitBhadro/Hospital-Management-System-Java-Swing-SQL/tree/main)  
+
 
 
 
