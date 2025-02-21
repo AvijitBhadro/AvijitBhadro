@@ -26,6 +26,9 @@
 🔍 [8086 Assembly Book Inventory System](https://github.com/AvijitBhadro/8086-Assembly-Online-Book-Shop)  
 💰 [Loan Management System](https://github.com/AvijitBhadro/Loan-Management-System)  
 🏥 [Hospital Management System – Java Swing & SQL](https://github.com/AvijitBhadro/Hospital-Management-System-Java-Swing-SQL/tree/main)  
+🩺 [Hospital Management System – C++](https://github.com/AvijitBhadro/Hospital-Management-System)  
+
+    
 
 
 
