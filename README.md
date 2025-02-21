@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit</h1>
-<h3 align="center">A Curious Computer Science student</h3>
+<h3 align="center">A Curious Computer Science Student</h3>
 
 ### 🚀 About Me  
 - 🎓 Computer Science student | Tech Enthusiast  
